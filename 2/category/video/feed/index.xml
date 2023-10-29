@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>video &#8211; Optimizing Mind</title>
+	<atom:link href="/2/category/video/feed/" rel="self" type="application/rss+xml" />
+	<link>/2/</link>
+	<description>Bringing Neuroscience to AI</description>
+	<lastBuildDate>Wed, 08 Nov 2017 08:05:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.3</generator>
+
+<image>
+	<url>/2/wp-content/uploads/2017/02/cropped-om-logo-clear-e1486834955719-32x32.png</url>
+	<title>video &#8211; Optimizing Mind</title>
+	<link>/2/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Explainable AI Demonstration</title>
+		<link>/2/explainable-ai-demonstration/</link>
+		<comments>/2/explainable-ai-demonstration/#respond</comments>
+		<pubDate>Wed, 22 Feb 2017 09:39:43 +0000</pubDate>
+		<dc:creator><![CDATA[Rob]]></dc:creator>
+				<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">http://dev.optimizingmind.com/?p=250</guid>
+		<description><![CDATA[From this explanation it is clear even to someone unfamiliar with Machine Learning that recognition is not happening as intended. Although this network performs well, it is focusing on pixels outside of where digit information is typically found. We take an existing Machine Learning – Neural Network (a type called SVM) train on a Post-Office [&#8230;]]]></description>
+		<wfw:commentRss>/2/explainable-ai-demonstration/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

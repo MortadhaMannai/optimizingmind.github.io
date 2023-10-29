@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Optimizing Mind</title>
+	<atom:link href="/2/feed/" rel="self" type="application/rss+xml" />
+	<link>/2/</link>
+	<description>Bringing Neuroscience to AI</description>
+	<lastBuildDate>Wed, 08 Nov 2017 08:05:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.3</generator>
+
+<image>
+	<url>/2/wp-content/uploads/2017/02/cropped-om-logo-clear-e1486834955719-32x32.png</url>
+	<title>Optimizing Mind</title>
+	<link>/2/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Artificial Intelligence: Underpinnings of a Disruptive Wave</title>
+		<link>/2/artificial-intelligence-underpinnings-of-a-disruptive-wave/</link>
+		<comments>/2/artificial-intelligence-underpinnings-of-a-disruptive-wave/#respond</comments>
+		<pubDate>Tue, 09 May 2017 16:49:03 +0000</pubDate>
+		<dc:creator><![CDATA[Rob]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/2/?p=474</guid>
+		<description><![CDATA[Artificial Intelligence: Underpinnings of a Disruptive Wave AI has been around for decades but is this time different? We will continue our discussion on AI &#8230; Original: YouTube &#160;]]></description>
+		<wfw:commentRss>/2/artificial-intelligence-underpinnings-of-a-disruptive-wave/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Explainable Artificial Intelligence cracking open black box AI</title>
+		<link>/2/explainable-artificial-intelligence-cracking-open-black-box-ai/</link>
+		<comments>/2/explainable-artificial-intelligence-cracking-open-black-box-ai/#respond</comments>
+		<pubDate>Sat, 15 Apr 2017 02:13:55 +0000</pubDate>
+		<dc:creator><![CDATA[Val Valliyappan]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/2/?p=393</guid>
+		<description><![CDATA[&#8220;It is very clever, it can do some amazing things but it needs a lot of hand holding still. AI is almost like a toddler. They can do some pretty cool things, sometimes they can cause a fair bit of trouble,&#8221; “You don’t really know why a system made a decision. AI cannot tell you [&#8230;]]]></description>
+		<wfw:commentRss>/2/explainable-artificial-intelligence-cracking-open-black-box-ai/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Understanding the limits of deep learning</title>
+		<link>/2/understanding-the-limits-of-deep-learning/</link>
+		<comments>/2/understanding-the-limits-of-deep-learning/#respond</comments>
+		<pubDate>Fri, 14 Apr 2017 05:17:52 +0000</pubDate>
+		<dc:creator><![CDATA[Rob]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/2/?p=388</guid>
+		<description><![CDATA[Artificial intelligence has reached peak hype. News outlets report that companies have replaced workers with IBM Watson and that algorithms are beating doctors at diagnoses. New AI startups pop up everyday, claiming to solve all your personal and business problems with machine learning. Original: VentureBeat]]></description>
+		<wfw:commentRss>/2/understanding-the-limits-of-deep-learning/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Optimizing Mind is featured in Bug Online</title>
+		<link>/2/om-featured-in-bug-online/</link>
+		<comments>/2/om-featured-in-bug-online/#respond</comments>
+		<pubDate>Thu, 13 Apr 2017 19:55:30 +0000</pubDate>
+		<dc:creator><![CDATA[Rob]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/2/?p=384</guid>
+		<description><![CDATA[We were recently featured in Bug Online, a popular Croatian Technology Magazine. You can read a translation here or see the original below. Algoritmi koje nazivamo umjetnom inteligencijom rade po principu &#8220;crne kutije&#8221;. Jedan polu-hrvatski startup u Silicijskoj dolini prodire u njihovu &#8220;psihu&#8221; Original: Bug Online]]></description>
+		<wfw:commentRss>/2/om-featured-in-bug-online/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>There’s a big problem with AI: even its creators can’t explain how it works</title>
+		<link>/2/the-dark-secret-at-the-heart-of-ai/</link>
+		<comments>/2/the-dark-secret-at-the-heart-of-ai/#respond</comments>
+		<pubDate>Thu, 13 Apr 2017 19:16:48 +0000</pubDate>
+		<dc:creator><![CDATA[Rob]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/2/?p=379</guid>
+		<description><![CDATA[No one really knows how the most advanced algorithms do what they do. That could be a problem. Last year, a strange self-driving car was released onto the quiet roads of Monmouth County, New Jersey. The experimental vehicle, developed by researchers at the chip maker Nvidia, didn’t look different from other autonomous cars, but it [&#8230;]]]></description>
+		<wfw:commentRss>/2/the-dark-secret-at-the-heart-of-ai/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Magic AI: these are the optical illusions that trick, fool, and flummox computers</title>
+		<link>/2/ai-adversarial-images-fooling-attacks-artificial-intelligence/</link>
+		<comments>/2/ai-adversarial-images-fooling-attacks-artificial-intelligence/#respond</comments>
+		<pubDate>Thu, 13 Apr 2017 16:51:05 +0000</pubDate>
+		<dc:creator><![CDATA[Rob]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/2/?p=376</guid>
+		<description><![CDATA[There’s a scene in William Gibson’s 2010 novel Zero History, in which a character embarking on a high-stakes raid dons what the narrator refers to as the “ugliest T-shirt” in existence — a garment which renders him invisible to CCTV. In Neal Stephenson’s Snow Crash, a bitmap image is used to transmit a virus that [&#8230;]]]></description>
+		<wfw:commentRss>/2/ai-adversarial-images-fooling-attacks-artificial-intelligence/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Algorithms are Black Boxes, That is Why We Need Explainable AI</title>
+		<link>/2/algorithms-are-black-boxes-that-is-why-we-need-explainable-ai/</link>
+		<comments>/2/algorithms-are-black-boxes-that-is-why-we-need-explainable-ai/#respond</comments>
+		<pubDate>Fri, 24 Mar 2017 05:41:03 +0000</pubDate>
+		<dc:creator><![CDATA[Rob]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/2/?p=345</guid>
+		<description><![CDATA[Algorithms are black boxes that do not know what they do not know, as such we need Explainable AI to reduce bias and discrimination in AI. Original: datafloq.com]]></description>
+		<wfw:commentRss>/2/algorithms-are-black-boxes-that-is-why-we-need-explainable-ai/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Explainable AI Demonstration</title>
+		<link>/2/explainable-ai-demonstration/</link>
+		<comments>/2/explainable-ai-demonstration/#respond</comments>
+		<pubDate>Wed, 22 Feb 2017 09:39:43 +0000</pubDate>
+		<dc:creator><![CDATA[Rob]]></dc:creator>
+				<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">http://dev.optimizingmind.com/?p=250</guid>
+		<description><![CDATA[From this explanation it is clear even to someone unfamiliar with Machine Learning that recognition is not happening as intended. Although this network performs well, it is focusing on pixels outside of where digit information is typically found. We take an existing Machine Learning – Neural Network (a type called SVM) train on a Post-Office [&#8230;]]]></description>
+		<wfw:commentRss>/2/explainable-ai-demonstration/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Is Artificial Intelligence Permanently Inscrutable?</title>
+		<link>http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable#new_tab</link>
+		<comments>http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable#new_tab#respond</comments>
+		<pubDate>Tue, 21 Feb 2017 08:30:43 +0000</pubDate>
+		<dc:creator><![CDATA[Rob]]></dc:creator>
+				<category><![CDATA[article]]></category>
+
+		<guid isPermaLink="false">http://dev.optimizingmind.com/?p=207</guid>
+		<description><![CDATA[Dmitry Malioutov can’t say much about what he built. As a research scientist at IBM, Malioutov spends part of his time building… Original: Nautilus]]></description>
+		<wfw:commentRss>http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable#new_tab/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Two Duck-Rabbit Paradigm-Shift Anomalies in Physics and One (maybe) in Machine Learning</title>
+		<link>https://medium.com/no-i-wont-fix-your-computer/two-duck-rabbit-paradigm-shift-anomalies-in-physics-and-one-maybe-in-machine-learning-86e6e1fbdcd7#.j346wdi8l#new_tab</link>
+		<comments>https://medium.com/no-i-wont-fix-your-computer/two-duck-rabbit-paradigm-shift-anomalies-in-physics-and-one-maybe-in-machine-learning-86e6e1fbdcd7#.j346wdi8l#new_tab#respond</comments>
+		<pubDate>Tue, 21 Feb 2017 08:10:33 +0000</pubDate>
+		<dc:creator><![CDATA[Rob]]></dc:creator>
+				<category><![CDATA[article]]></category>
+
+		<guid isPermaLink="false">http://dev.optimizingmind.com/?p=191</guid>
+		<description><![CDATA[You never know what a meeting for a quick coffee in Palo Alto can turn into. What was supposed to be an ‘informal’ chat (if there is such thing when talking with PhD’s) about feedforward-feedback machine learning models, turned into a philosophical discussion on duck-rabbit paradigm shifts (disclaimer 1: I’m just a nerd without credentials [&#8230;]]]></description>
+		<wfw:commentRss>https://medium.com/no-i-wont-fix-your-computer/two-duck-rabbit-paradigm-shift-anomalies-in-physics-and-one-maybe-in-machine-learning-86e6e1fbdcd7#.j346wdi8l#new_tab/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

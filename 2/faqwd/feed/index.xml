@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FAQ &#8211; Optimizing Mind</title>
+	<atom:link href="/2/faqwd/feed/" rel="self" type="application/rss+xml" />
+	<link>/2/</link>
+	<description>Bringing Neuroscience to AI</description>
+	<lastBuildDate>Wed, 08 Nov 2017 08:05:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.3</generator>
+
+<image>
+	<url>/2/wp-content/uploads/2017/02/cropped-om-logo-clear-e1486834955719-32x32.png</url>
+	<title>FAQ &#8211; Optimizing Mind</title>
+	<link>/2/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Optimizing Mind Technology?</title>
+		<link>/2/faqwd/optimizing-mind-technology/</link>
+		<comments>/2/faqwd/optimizing-mind-technology/#respond</comments>
+		<pubDate>Tue, 25 Apr 2017 05:19:15 +0000</pubDate>
+		<dc:creator><![CDATA[Rob]]></dc:creator>
+		
+		<guid isPermaLink="false">/2/?post_type=faq_wd&#038;p=445</guid>
+		<description><![CDATA[In today’s world, Artificial Intelligence (AI) aids professionals to make critical decisions. Its apparent in the field of medical diagnosis,defense operations and in upcoming fields such as self-driving cars.  Given the high impact of these decisions, there is growing need to reveal AI’s decision making process. Organizations such as DARPA have already working on explainable [&#8230;]]]></description>
+		<wfw:commentRss>/2/faqwd/optimizing-mind-technology/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why Optimizing Mind Technology?</title>
+		<link>/2/faqwd/why-optimizing-mind-technology/</link>
+		<comments>/2/faqwd/why-optimizing-mind-technology/#respond</comments>
+		<pubDate>Tue, 25 Apr 2017 05:17:38 +0000</pubDate>
+		<dc:creator><![CDATA[Rob]]></dc:creator>
+		
+		<guid isPermaLink="false">/2/?post_type=faq_wd&#038;p=444</guid>
+		<description><![CDATA[Because the current state of AI does not reflect how the Human brain actually works.]]></description>
+		<wfw:commentRss>/2/faqwd/why-optimizing-mind-technology/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What is a black-box?</title>
+		<link>/2/faqwd/what-is-a-black-box/</link>
+		<comments>/2/faqwd/what-is-a-black-box/#respond</comments>
+		<pubDate>Tue, 25 Apr 2017 05:16:45 +0000</pubDate>
+		<dc:creator><![CDATA[Rob]]></dc:creator>
+		
+		<guid isPermaLink="false">/2/?post_type=faq_wd&#038;p=443</guid>
+		<description><![CDATA[Something is called a black box because what is inside is unknown. Black box testing for example, is used in QA to do tests without knowing what is being tested and only manipulating the inputs and paying attention to the outputs.]]></description>
+		<wfw:commentRss>/2/faqwd/what-is-a-black-box/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What is xAI?</title>
+		<link>/2/faqwd/what-is-xai/</link>
+		<comments>/2/faqwd/what-is-xai/#respond</comments>
+		<pubDate>Tue, 25 Apr 2017 05:15:44 +0000</pubDate>
+		<dc:creator><![CDATA[Rob]]></dc:creator>
+		
+		<guid isPermaLink="false">/2/?post_type=faq_wd&#038;p=442</guid>
+		<description><![CDATA[xAI or XAI stands for explainable artificial intelligence, which means the properties of the AI and why it makes the decisions it does are clear and understood.]]></description>
+		<wfw:commentRss>/2/faqwd/what-is-xai/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

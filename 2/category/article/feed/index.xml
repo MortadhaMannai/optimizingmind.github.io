@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>article &#8211; Optimizing Mind</title>
+	<atom:link href="/2/category/article/feed/" rel="self" type="application/rss+xml" />
+	<link>/2/</link>
+	<description>Bringing Neuroscience to AI</description>
+	<lastBuildDate>Wed, 08 Nov 2017 08:05:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.3</generator>
+
+<image>
+	<url>/2/wp-content/uploads/2017/02/cropped-om-logo-clear-e1486834955719-32x32.png</url>
+	<title>article &#8211; Optimizing Mind</title>
+	<link>/2/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Is Artificial Intelligence Permanently Inscrutable?</title>
+		<link>http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable#new_tab</link>
+		<comments>http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable#new_tab#respond</comments>
+		<pubDate>Tue, 21 Feb 2017 08:30:43 +0000</pubDate>
+		<dc:creator><![CDATA[Rob]]></dc:creator>
+				<category><![CDATA[article]]></category>
+
+		<guid isPermaLink="false">http://dev.optimizingmind.com/?p=207</guid>
+		<description><![CDATA[Dmitry Malioutov can’t say much about what he built. As a research scientist at IBM, Malioutov spends part of his time building… Original: Nautilus]]></description>
+		<wfw:commentRss>http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable#new_tab/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Two Duck-Rabbit Paradigm-Shift Anomalies in Physics and One (maybe) in Machine Learning</title>
+		<link>https://medium.com/no-i-wont-fix-your-computer/two-duck-rabbit-paradigm-shift-anomalies-in-physics-and-one-maybe-in-machine-learning-86e6e1fbdcd7#.j346wdi8l#new_tab</link>
+		<comments>https://medium.com/no-i-wont-fix-your-computer/two-duck-rabbit-paradigm-shift-anomalies-in-physics-and-one-maybe-in-machine-learning-86e6e1fbdcd7#.j346wdi8l#new_tab#respond</comments>
+		<pubDate>Tue, 21 Feb 2017 08:10:33 +0000</pubDate>
+		<dc:creator><![CDATA[Rob]]></dc:creator>
+				<category><![CDATA[article]]></category>
+
+		<guid isPermaLink="false">http://dev.optimizingmind.com/?p=191</guid>
+		<description><![CDATA[You never know what a meeting for a quick coffee in Palo Alto can turn into. What was supposed to be an ‘informal’ chat (if there is such thing when talking with PhD’s) about feedforward-feedback machine learning models, turned into a philosophical discussion on duck-rabbit paradigm shifts (disclaimer 1: I’m just a nerd without credentials [&#8230;]]]></description>
+		<wfw:commentRss>https://medium.com/no-i-wont-fix-your-computer/two-duck-rabbit-paradigm-shift-anomalies-in-physics-and-one-maybe-in-machine-learning-86e6e1fbdcd7#.j346wdi8l#new_tab/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to make machines learn like humans: Brain-like AI &#038; Machine Learning</title>
+		<link>https://medium.com/no-i-wont-fix-your-computer/how-to-make-machines-learn-like-humans-brain-like-ai-machine-learning-7c07adec3f2e#new_tab</link>
+		<comments>https://medium.com/no-i-wont-fix-your-computer/how-to-make-machines-learn-like-humans-brain-like-ai-machine-learning-7c07adec3f2e#new_tab#respond</comments>
+		<pubDate>Tue, 21 Feb 2017 08:09:46 +0000</pubDate>
+		<dc:creator><![CDATA[Rob]]></dc:creator>
+				<category><![CDATA[article]]></category>
+
+		<guid isPermaLink="false">http://dev.optimizingmind.com/?p=189</guid>
+		<description><![CDATA[AI and machine learning changes the software paradigm computers have been based on for many decades. In the traditional computing domain, providing an input, we feed it into an algorithm to produce the desired output. This is the rule-based frameworkthe majority of the systems around us still work with. Original: medium.com]]></description>
+		<wfw:commentRss>https://medium.com/no-i-wont-fix-your-computer/how-to-make-machines-learn-like-humans-brain-like-ai-machine-learning-7c07adec3f2e#new_tab/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Featured in Computer Vision News</title>
+		<link>http://www.rsipvision.com/ComputerVisionNews-2017February/#23#new_tab</link>
+		<comments>http://www.rsipvision.com/ComputerVisionNews-2017February/#23#new_tab#respond</comments>
+		<pubDate>Tue, 21 Feb 2017 08:09:06 +0000</pubDate>
+		<dc:creator><![CDATA[Rob]]></dc:creator>
+				<category><![CDATA[article]]></category>
+
+		<guid isPermaLink="false">http://dev.optimizingmind.com/?p=187</guid>
+		<description><![CDATA[Featured in Computer Vision News Original: www.rsipvision.com]]></description>
+		<wfw:commentRss>http://www.rsipvision.com/ComputerVisionNews-2017February/#23#new_tab/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Is Data Science Really Science?</title>
+		<link>https://infocus.emc.com/william_schmarzo/data-science-really-science/#new_tab</link>
+		<comments>https://infocus.emc.com/william_schmarzo/data-science-really-science/#new_tab#respond</comments>
+		<pubDate>Tue, 21 Feb 2017 06:20:14 +0000</pubDate>
+		<dc:creator><![CDATA[Rob]]></dc:creator>
+				<category><![CDATA[article]]></category>
+
+		<guid isPermaLink="false">http://dev.optimizingmind.com/?p=177</guid>
+		<description><![CDATA[Bill Schmarzo, CTO of Dell EMC Services examines whether or not data science is really science, and how it gets done in the world of IoT and big data. Original: InFocus Blog &#124; Dell EMC Services]]></description>
+		<wfw:commentRss>https://infocus.emc.com/william_schmarzo/data-science-really-science/#new_tab/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Transparent machine learning: How to create &#8216;clear-box&#8217; AI</title>
+		<link>/2/transparent-machine-learning-how-to-create-clear-box-ai/</link>
+		<comments>/2/transparent-machine-learning-how-to-create-clear-box-ai/#respond</comments>
+		<pubDate>Mon, 13 Feb 2017 00:58:31 +0000</pubDate>
+		<dc:creator><![CDATA[Optimizing Mind MD. PhD.]]></dc:creator>
+				<category><![CDATA[article]]></category>
+
+		<guid isPermaLink="false">http://dev.optimizingmind.com/?p=138</guid>
+		<description><![CDATA[AI and robots can be trained to perform many tasks, but systems often operate in a black box, so we don&#8217;t know how decisions are made. Here&#8217;s how one company created a transparent alternative. The next big thing in AI may not be getting a machine to perform a task—it might be requiring the machine [&#8230;]]]></description>
+		<wfw:commentRss>/2/transparent-machine-learning-how-to-create-clear-box-ai/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
